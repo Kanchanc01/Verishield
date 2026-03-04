@@ -1,0 +1,5 @@
+{
+  "name": "VeriShield AI - Content Authenticity Engine",
+  "description": "A multi-modal detection platform to analyze text and images for AI-generated patterns and deepfake artifacts.",
+  "requestFramePermissions": []
+}
